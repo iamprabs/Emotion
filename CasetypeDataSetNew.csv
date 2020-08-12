@@ -1,4 +1,4 @@
-﻿Service Request,Repair
+Service Request,Repair
 Need Repairing,Repair
 No Hot Water,Repair
 Heating Side Not Working Fine,Repair
@@ -68,17 +68,17 @@ information about my invoice,Invoice
 send the invoice,Invoice
 "I want to download a bill, tell me how I can do it",Invoice
 "i want to obtain a bill, can you show me some information?",Invoice
-Trying Unsuccessfully To Obtain Help From Ideal,Escalation
+Unsuccessfully To Obtain Help,Escalation
 Make A Complaint Regarding The Response,Escalation
-You Failed To Keep Your Appointment,Escalation
+Failed To Keep Your Appointment,Escalation
 Engineer Not Trained On Keston Boilers,Escalation
-Afraid You Have Been Misinformed By Your Service Engineers H&M Boiler Services,Escalation
+Misinformed By Your Service Engineers,Escalation
 They Are Very Unprofessional,Escalation
-Ridiculously Rude To Both My Husband And Our Plumber On More Than One Occasion,Escalation
-We Have Clearly Had A Defective Boiler Installed,Escalation
-Customer Service Provision In Northern Ireland Is Not Up To Scratch,Escalation
-Miraculously Disappeared And Has Once Again,Escalation
-Incredibly Frustrating When Nobody Comes Back To You,Escalation
+Ridiculously Rude,Escalation
+Defective Boiler Installed,Escalation
+Customer Service Not Up To Scratch,Escalation
+Miraculously Disappeared,Escalation
+Incredibly Frustrating,Escalation
 I'm not happy with the service,Escalation
 I am discontent with the service,Escalation
 I want to submit a complaint,Escalation
@@ -87,17 +87,17 @@ I don't like the service,Escalation
 filing a complaint,Escalation
 boiler consumer complaint,Escalation
 Absolutely rubbish boilers,Escalation
-IDEAL LOGIC BOILERS ARE TERRIBLE AND A RIP-OFF,Escalation
+IDEAL LOGIC BOILERS ARE TERRIBLE,Escalation
 fitted 2months ago very disappointed,Escalation
 Absolutely useless,Escalation
 SHOCKING CUSTOMER EXPERIENCE,Escalation
-level of service is easily the worst I have ever known,Escalation
-company that really does not care one bit about anyone but themselves.,Escalation
-They dont call back when they say they will,Escalation
+level of service is easily the worst,Escalation
+really does not care about anyone but themselves,Escalation
+They dont call back,Escalation
 Awful customer backup service,Escalation
-Customer support you cannot count on,Escalation
+Customer support cannot count on,Escalation
 A very poor product,Escalation
-service is terrible not worth paper it’s written on,Escalation
+service is terrible not worth paper,Escalation
 Please Send Any Information Relating To Work/Services,Inquiry
 Please Let Me Know If This Is Ok?,Inquiry
 Sending Over A Job Report For A Recent Warranty Repair You Carried Out,Inquiry
