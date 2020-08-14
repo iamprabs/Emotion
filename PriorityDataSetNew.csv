@@ -1,10 +1,10 @@
-﻿Service Request,High
+Service Request,High
 Need Repairing,High
 No Hot Water,High
 Heating Side Not Working Fine,High
 Boiler STOPPED WORKING,High
 endure the disturbing sounds,High
-"very disappointed with boiler, its noisey",High
+very disappointed with boiler, its noisey,High
 broke down three times,High
 boiler produce a abnormal noice,High
 fixed repair,High
@@ -88,15 +88,15 @@ need bill of service,Low
 Could You Please Send Us The Invoice,Low
 Can you please send us the invoice,Low
 Please Kindly Provide us an invoice,Low
-"I didn't receive my invoice, view it",Low
-"i wanna check my invoices, could u help me?",Low
+I didn't receive my invoice, view it,Low
+i wanna check my invoices, could u help me?,Low
 can you provide information about my bill?,Low
 I didn't receive my bills and I want to see them,Low
 information about my invoice,Low
-"I can't find my invoice, help me see it",Low
+I can't find my invoice, help me see it,Low
 send the invoice,Low
-"I want to download a bill, tell me how I can do it",Low
-"i want to obtain a bill, can you show me some information?",Low
+I want to download a bill, tell me how I can do it,Low
+i want to obtain a bill, can you show me some information?,Low
 Do current AI automatically become Max AI,Low
 Cover Under The Free Guarantee,Low
 Was Only Covered For 2 Years,Low
@@ -152,5 +152,5 @@ How do I keep my Ideal boiler warranty valid?,Medium
 are boiler warranties transferable,Medium
 What If I Bought the Boiler Secondhand? What will happen to warranty.,Medium
 Will I receive a replacement item if my item cannot be fixed and it is under warrenty,Medium
-"If my item is accidently damaged, will this be covered under warranty?",Medium
+If my item is accidently damaged, will this be covered under warranty?,Medium
 What all things not covered under warranty?,Medium
